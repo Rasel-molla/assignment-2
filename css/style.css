@@ -1,6 +1,6 @@
 *{
 
-
+    font-family: 'Noto Sans TC', sans-serif;
 
   
     }
@@ -34,9 +34,10 @@ margin: 30px;
 }
 .card img{
 
-background-color: rgb(240, 231, 231);
+background-color: rgb(253, 253, 253);
 
 }
 .continerr img{
-
+margin-left: 100px;
+ width: 200px;   
 }
