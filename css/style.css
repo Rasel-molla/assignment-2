@@ -28,7 +28,7 @@ margin: 30px;
 
 }
 .logo img{
-    width: 300px; 
+    width: 250px; 
 
 
 }
@@ -40,4 +40,28 @@ background-color: rgb(253, 253, 253);
 .continerr img{
 margin-left: 100px;
  width: 200px;   
+}
+.card-f img{
+ 
+    opacity: 50%;
+ height: 400px;
+}
+.card-e{
+
+width: 300px;
+
+}
+article {
+     min-height: 100%; 
+     display: grid; 
+     grid-template-rows: auto 1fr auto; 
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+
+    background-color: #45a1ff;
+    color: rgb(237, 238, 228);
+  
 }
